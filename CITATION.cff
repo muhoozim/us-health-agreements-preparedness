@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Fixed spending targets and outbreak preparedness in US bilateral health agreements: code and data"
+version: 1.0.0
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/muhoozim/us-health-agreements-preparedness"
+authors:
+  - family-names: Muhoozi
+    given-names: Michael
+    affiliation: "Department of Health Policy, School of Public Health, Virginia Commonwealth University"
+    email: muhoozim@vcu.edu
+  - family-names: Swahn
+    given-names: Monica H.
+    affiliation: "Department of Epidemiology, School of Public Health, Virginia Commonwealth University"
+keywords:
+  - global health security
+  - outbreak preparedness
+  - co-financing
+  - bilateral health agreements
+  - health financing
+  - International Health Regulations

@@ -1,0 +1,9 @@
+# Third-party downloads are not redistributed (see README.md)
+data/raw/*/
+# R and system files
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.DS_Store
+__pycache__/
