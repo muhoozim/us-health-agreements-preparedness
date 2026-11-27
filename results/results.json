@@ -1,0 +1,756 @@
+{
+  "populations": {
+    "n_agreements": 36,
+    "n_both_components": 34,
+    "n_ghs_index": 195,
+    "n_ahs_index": 54,
+    "n_ahs_signatories": 25,
+    "n_signed_texts": 20,
+    "n_announcements": 14
+  },
+  "portfolio": {
+    "first_signed": "2025-12-04",
+    "last_signed": "2026-10-08",
+    "n_known_totals": 35,
+    "total_known_usd_bn": 26.73460348,
+    "n_known_us": 35,
+    "us_known_usd_bn": 15.8817024,
+    "us_34_usd_bn": 15.7829524,
+    "partner_34_usd_bn": 10.26665108,
+    "partner_share_34_pct": 39.41192844,
+    "partner_share_min_pct": 2.5974026,
+    "partner_share_max_pct": 79.2907253,
+    "n_term3": 4,
+    "term3": ["Bolivia (Plurinational State of)", "Botswana", "Panama", "South Sudan"],
+    "n_hist": 33,
+    "hist_prior_usd_bn": 23.90682,
+    "hist_new_usd_bn": 15.8492024,
+    "n_africa_34": 25,
+    "hist_change_pct": -33.70426347
+  },
+  "pledge": {
+    "median": 6.75843953,
+    "q1": 0.9764898,
+    "q3": 17.71900497,
+    "min": 0.01257608,
+    "min_country": "Guatemala",
+    "max": 47.06003182,
+    "max_country": "United Republic of Tanzania",
+    "max_non_africa": 3.53097273,
+    "max_non_africa_country": "Tajikistan",
+    "n_ge5": 19,
+    "n_ge10": 12,
+    "n_ge20": 7,
+    "top6": [
+      {
+        "country": "United Republic of Tanzania",
+        "pledge_share_pct": 47.06003182
+      },
+      {
+        "country": "Zambia",
+        "pledge_share_pct": 29.04880593
+      },
+      {
+        "country": "Cameroon",
+        "pledge_share_pct": 27.29187752
+      },
+      {
+        "country": "Nigeria",
+        "pledge_share_pct": 27.25637816
+      },
+      {
+        "country": "Malawi",
+        "pledge_share_pct": 25.76225471
+      },
+      {
+        "country": "Uganda",
+        "pledge_share_pct": 24.06417333
+      }
+    ],
+    "botswana_5yr": 8.32651862,
+    "botswana": 13.87753104,
+    "south_sudan_5yr": 11.09158612,
+    "south_sudan": 18.48597686
+  },
+  "uganda": {
+    "y2026_usd_m": 0,
+    "y2030_usd_m": 216.970199,
+    "total_usd_m": 577.001796,
+    "y2030_pct_2023": 45.24430003,
+    "mean_pct_2023": 24.06417333,
+    "gghed_2023_usd_m": 479.55255989
+  },
+  "preparedness": {
+    "spar_global_mean": 63,
+    "n_below_63": 26,
+    "n_below_50": 13,
+    "spar_min": 28,
+    "spar_max": 78,
+    "ghs_median_195": 34.9,
+    "ahs_median_54": 40.03,
+    "n_ghs_below": 27,
+    "n_ahs_below": 9,
+    "n_ahs": 25
+  },
+  "cor": {
+    "ghs_ahs_all": {
+      "key": "ghs_ahs_all",
+      "pair": "GHS 2021 vs AHS 2026",
+      "population": "African countries with both",
+      "n": 54,
+      "rho": 0.68997789,
+      "lo": 0.47731328,
+      "hi": 0.82948292
+    },
+    "lab_lab": {
+      "key": "lab_lab",
+      "pair": "SPAR laboratory (C4) vs AHS laboratory",
+      "population": "African countries with both",
+      "n": 54,
+      "rho": 0.39343762,
+      "lo": 0.1407456,
+      "hi": 0.61248808
+    },
+    "pledge_ahs": {
+      "key": "pledge_ahs",
+      "pair": "Pledge share vs AHS Index 2026",
+      "population": "African signatories",
+      "n": 25,
+      "rho": 0.24769231,
+      "lo": -0.18597485,
+      "hi": 0.63225209
+    },
+    "pledge_ext": {
+      "key": "pledge_ext",
+      "pair": "Pledge share vs external share of current health spending",
+      "population": "34 signatories",
+      "n": 34,
+      "rho": 0.61588999,
+      "lo": 0.30134803,
+      "hi": 0.8147198
+    },
+    "pledge_gge": {
+      "key": "pledge_gge",
+      "pair": "Pledge share vs health share of government spending",
+      "population": "34 signatories",
+      "n": 34,
+      "rho": -0.60855615,
+      "lo": -0.82261331,
+      "hi": -0.30442315
+    },
+    "pledge_ghs": {
+      "key": "pledge_ghs",
+      "pair": "Pledge share vs GHS Index 2021",
+      "population": "34 signatories",
+      "n": 34,
+      "rho": -0.0456942,
+      "lo": -0.39503867,
+      "hi": 0.32492788
+    },
+    "pledge_spar": {
+      "key": "pledge_spar",
+      "pair": "Pledge share vs SPAR 2025",
+      "population": "34 signatories",
+      "n": 34,
+      "rho": 0.03517628,
+      "lo": -0.35297968,
+      "hi": 0.40257136
+    },
+    "spar_ahs_all": {
+      "key": "spar_ahs_all",
+      "pair": "SPAR 2025 vs AHS 2026",
+      "population": "African countries with both",
+      "n": 54,
+      "rho": 0.56985612,
+      "lo": 0.35274892,
+      "hi": 0.72797598
+    },
+    "spar_ghs_all": {
+      "key": "spar_ghs_all",
+      "pair": "SPAR 2025 vs GHS 2021",
+      "population": "All countries with both",
+      "n": 193,
+      "rho": 0.69859325,
+      "lo": 0.61522746,
+      "hi": 0.76872004
+    },
+    "surv_surv": {
+      "key": "surv_surv",
+      "pair": "SPAR surveillance (C5) vs AHS surveillance",
+      "population": "African countries with both",
+      "n": 54,
+      "rho": 0.08180029,
+      "lo": -0.2015837,
+      "hi": 0.35699604
+    }
+  },
+  "group": {
+    "n": 10,
+    "countries": ["Botswana", "Cameroon", "Democratic Republic of the Congo", "Lesotho", "Liberia", "Malawi", "Nigeria", "Sierra Leone", "South Sudan", "Uganda"],
+    "iso3": ["BWA", "CMR", "COD", "LBR", "LSO", "MWI", "NGA", "SLE", "SSD", "UGA"],
+    "us_usd_bn": 6.6204374,
+    "partner_usd_bn": 5.07562847,
+    "pop_m": 462.035081,
+    "ext_che_median": 32.74761963,
+    "gghed_gge_median": 4.38820338,
+    "n_rated": 8,
+    "n_high_or_distress": 5,
+    "high_or_distress": ["Cameroon", "Liberia", "Malawi", "Sierra Leone", "South Sudan"],
+    "in_distress": "Malawi",
+    "not_rated": ["Botswana", "Nigeria"],
+    "n_no_single": 5,
+    "no_single": ["Botswana", "Lesotho", "Liberia", "Nigeria", "Uganda"],
+    "no_single_named_regional": ["Botswana", "Lesotho", "Uganda"],
+    "cfp4_eligible": ["Liberia", "Nigeria", "Uganda"],
+    "n_signed_text": 9,
+    "announcement_only": "South Sudan",
+    "n_workforce_below": 10
+  },
+  "quadrants": {
+    "A": 10,
+    "B": 2,
+    "C": 16,
+    "D": 6
+  },
+  "table1": {
+    "A": {
+      "quadrant": "A",
+      "n": 10,
+      "countries": "Cameroon; Nigeria; Malawi; Uganda; Lesotho; South Sudan; Liberia; Sierra Leone; Botswana; Democratic Republic of the Congo",
+      "pledge_min": 12.92855098,
+      "pledge_max": 27.29187752,
+      "spar_min": 39,
+      "spar_max": 61,
+      "n_rated": 8,
+      "n_high_or_distress": 5,
+      "n_no_single": 5,
+      "n_cross10_dep20": 0,
+      "us_usd_bn": 6.6204374
+    },
+    "B": {
+      "quadrant": "B",
+      "n": 2,
+      "countries": "United Republic of Tanzania; Zambia",
+      "pledge_min": 29.04880593,
+      "pledge_max": 47.06003182,
+      "spar_min": 66,
+      "spar_max": 69,
+      "n_rated": 2,
+      "n_high_or_distress": 1,
+      "n_no_single": 0,
+      "n_cross10_dep20": 0,
+      "us_usd_bn": 2.82
+    },
+    "C": {
+      "quadrant": "C",
+      "n": 16,
+      "countries": "Burundi; Niger; Côte d'Ivoire; Kenya; Madagascar; Eswatini; Burkina Faso; Rwanda; Tajikistan; Mozambique; Senegal; Angola; Honduras; Papua New Guinea; Bolivia (Plurinational State of); Guatemala",
+      "pledge_min": 0.01257608,
+      "pledge_max": 9.15913581,
+      "spar_min": 28,
+      "spar_max": 62,
+      "n_rated": 12,
+      "n_high_or_distress": 6,
+      "n_no_single": 8,
+      "n_cross10_dep20": 3,
+      "us_usd_bn": 5.103615
+    },
+    "D": {
+      "quadrant": "D",
+      "n": 6,
+      "countries": "Ethiopia; Guinea; El Salvador; Cambodia; Panama; Dominican Republic",
+      "pledge_min": 0.07942468,
+      "pledge_max": 9.17126748,
+      "spar_min": 66,
+      "spar_max": 78,
+      "n_rated": 3,
+      "n_high_or_distress": 1,
+      "n_no_single": 4,
+      "n_cross10_dep20": 1,
+      "us_usd_bn": 1.2389
+    }
+  },
+  "grid": [
+    {
+      "threshold": 5,
+      "measure": "SPAR 2025 below WHO global mean (63)",
+      "eligible": 34,
+      "n": 15,
+      "n_in_primary": 10,
+      "countries": "Burundi; Botswana; Côte d'Ivoire; Cameroon; Democratic Republic of the Congo; Kenya; Liberia; Lesotho; Madagascar; Malawi; Niger; Nigeria; Sierra Leone; South Sudan; Uganda",
+      "iso3": "BDI BWA CIV CMR COD KEN LBR LSO MDG MWI NER NGA SLE SSD UGA"
+    },
+    {
+      "threshold": 5,
+      "measure": "GHS 2021 below index median (34.9, 195 countries)",
+      "eligible": 34,
+      "n": 14,
+      "n_in_primary": 7,
+      "countries": "Burundi; Botswana; Côte d'Ivoire; Cameroon; Democratic Republic of the Congo; Guinea; Lesotho; Madagascar; Malawi; Niger; Sierra Leone; South Sudan; United Republic of Tanzania; Zambia",
+      "iso3": "BDI BWA CIV CMR COD GIN LSO MDG MWI NER SLE SSD TZA ZMB"
+    },
+    {
+      "threshold": 5,
+      "measure": "AHS 2026 below index median (54 countries)",
+      "eligible": 25,
+      "n": 6,
+      "n_in_primary": 1,
+      "countries": "Burundi; Guinea; Madagascar; Niger; South Sudan; United Republic of Tanzania",
+      "iso3": "BDI GIN MDG NER SSD TZA"
+    },
+    {
+      "threshold": 10,
+      "measure": "SPAR 2025 below WHO global mean (63)",
+      "eligible": 34,
+      "n": 10,
+      "n_in_primary": 10,
+      "countries": "Botswana; Cameroon; Democratic Republic of the Congo; Liberia; Lesotho; Malawi; Nigeria; Sierra Leone; South Sudan; Uganda",
+      "iso3": "BWA CMR COD LBR LSO MWI NGA SLE SSD UGA"
+    },
+    {
+      "threshold": 10,
+      "measure": "GHS 2021 below index median (34.9, 195 countries)",
+      "eligible": 34,
+      "n": 9,
+      "n_in_primary": 7,
+      "countries": "Botswana; Cameroon; Democratic Republic of the Congo; Lesotho; Malawi; Sierra Leone; South Sudan; United Republic of Tanzania; Zambia",
+      "iso3": "BWA CMR COD LSO MWI SLE SSD TZA ZMB"
+    },
+    {
+      "threshold": 10,
+      "measure": "AHS 2026 below index median (54 countries)",
+      "eligible": 25,
+      "n": 2,
+      "n_in_primary": 1,
+      "countries": "South Sudan; United Republic of Tanzania",
+      "iso3": "SSD TZA"
+    },
+    {
+      "threshold": 15,
+      "measure": "SPAR 2025 below WHO global mean (63)",
+      "eligible": 34,
+      "n": 8,
+      "n_in_primary": 8,
+      "countries": "Cameroon; Liberia; Lesotho; Malawi; Nigeria; Sierra Leone; South Sudan; Uganda",
+      "iso3": "CMR LBR LSO MWI NGA SLE SSD UGA"
+    },
+    {
+      "threshold": 15,
+      "measure": "GHS 2021 below index median (34.9, 195 countries)",
+      "eligible": 34,
+      "n": 7,
+      "n_in_primary": 5,
+      "countries": "Cameroon; Lesotho; Malawi; Sierra Leone; South Sudan; United Republic of Tanzania; Zambia",
+      "iso3": "CMR LSO MWI SLE SSD TZA ZMB"
+    },
+    {
+      "threshold": 15,
+      "measure": "AHS 2026 below index median (54 countries)",
+      "eligible": 25,
+      "n": 2,
+      "n_in_primary": 1,
+      "countries": "South Sudan; United Republic of Tanzania",
+      "iso3": "SSD TZA"
+    },
+    {
+      "threshold": 20,
+      "measure": "SPAR 2025 below WHO global mean (63)",
+      "eligible": 34,
+      "n": 5,
+      "n_in_primary": 5,
+      "countries": "Cameroon; Lesotho; Malawi; Nigeria; Uganda",
+      "iso3": "CMR LSO MWI NGA UGA"
+    },
+    {
+      "threshold": 20,
+      "measure": "GHS 2021 below index median (34.9, 195 countries)",
+      "eligible": 34,
+      "n": 5,
+      "n_in_primary": 3,
+      "countries": "Cameroon; Lesotho; Malawi; United Republic of Tanzania; Zambia",
+      "iso3": "CMR LSO MWI TZA ZMB"
+    },
+    {
+      "threshold": 20,
+      "measure": "AHS 2026 below index median (54 countries)",
+      "eligible": 25,
+      "n": 1,
+      "n_in_primary": 0,
+      "countries": "United Republic of Tanzania",
+      "iso3": "TZA"
+    }
+  ],
+  "robust": {
+    "n_two_of_three": 8,
+    "two_of_three": ["Botswana", "Cameroon", "Democratic Republic of the Congo", "Lesotho", "Malawi", "Sierra Leone", "South Sudan", "United Republic of Tanzania"],
+    "spar_and_ghs": ["Botswana", "Cameroon", "Democratic Republic of the Congo", "Lesotho", "Malawi", "Sierra Leone", "South Sudan"],
+    "spar_only": ["Liberia", "Nigeria", "Uganda"],
+    "ghs_only": ["United Republic of Tanzania", "Zambia"]
+  },
+  "scenarios": {
+    "primary": {
+      "scenario": "Primary: KFF amounts, documented 3- or 5-year terms",
+      "note": "Main analysis",
+      "n_countries": 34,
+      "median": 6.75843953,
+      "q3": 17.71900497,
+      "n_ge10": 12,
+      "n_group": 10,
+      "group_iso3": "BWA CMR COD LBR LSO MWI NGA SLE SSD UGA",
+      "gained": "",
+      "lost": "",
+      "n_group_dep20": 13,
+      "malawi_share": 25.76225471,
+      "rho_spar": 0.03517628
+    },
+    "v4_five_year": {
+      "scenario": "Version 4 rule: every amount divided by five",
+      "note": "Replicates the earlier draft",
+      "n_countries": 34,
+      "median": 6.75843953,
+      "q3": 16.42021486,
+      "n_ge10": 11,
+      "n_group": 9,
+      "group_iso3": "CMR COD LBR LSO MWI NGA SLE SSD UGA",
+      "gained": "",
+      "lost": "BWA",
+      "n_group_dep20": 13,
+      "malawi_share": 25.76225471,
+      "rho_spar": 0.04817621
+    },
+    "mwi_programme": {
+      "scenario": "Malawi: signed programme schedule (US$55m)",
+      "note": "Appendix 1",
+      "n_countries": 34,
+      "median": 6.75843953,
+      "q3": 16.65745987,
+      "n_ge10": 11,
+      "n_group": 9,
+      "group_iso3": "BWA CMR COD LBR LSO NGA SLE SSD UGA",
+      "gained": "",
+      "lost": "MWI",
+      "n_group_dep20": 13,
+      "malawi_share": 9.85343539,
+      "rho_spar": 0.01942342
+    },
+    "mwi_budget": {
+      "scenario": "Malawi: signed budget increases (US$313.6m)",
+      "note": "Section 5.1",
+      "n_countries": 34,
+      "median": 6.75843953,
+      "q3": 17.71900497,
+      "n_ge10": 12,
+      "n_group": 10,
+      "group_iso3": "BWA CMR COD LBR LSO MWI NGA SLE SSD UGA",
+      "gained": "",
+      "lost": "",
+      "n_group_dep20": 13,
+      "malawi_share": 56.18249705,
+      "rho_spar": 0.03395276
+    },
+    "mwi_excluded": {
+      "scenario": "Malawi excluded",
+      "note": "33 countries",
+      "n_countries": 33,
+      "median": 5.46538619,
+      "q3": 17.58410282,
+      "n_ge10": 11,
+      "n_group": 9,
+      "group_iso3": "BWA CMR COD LBR LSO NGA SLE SSD UGA",
+      "gained": "",
+      "lost": "MWI",
+      "n_group_dep20": 12,
+      "malawi_share": null,
+      "rho_spar": 0.01120871
+    },
+    "phl_added": {
+      "scenario": "Philippines added (embassy split)",
+      "note": "35 countries",
+      "n_countries": 35,
+      "median": 5.46538619,
+      "q3": 17.67403758,
+      "n_ge10": 12,
+      "n_group": 10,
+      "group_iso3": "BWA CMR COD LBR LSO MWI NGA SLE SSD UGA",
+      "gained": "",
+      "lost": "",
+      "n_group_dep20": 13,
+      "malawi_share": 25.76225471,
+      "rho_spar": -0.00841161
+    },
+    "signed_only": {
+      "scenario": "Signed texts only",
+      "note": "Amounts verified against a signed text",
+      "n_countries": 20,
+      "median": 9.16520164,
+      "q3": 18.36606354,
+      "n_ge10": 9,
+      "n_group": 9,
+      "group_iso3": "BWA CMR COD LBR LSO MWI NGA SLE UGA",
+      "gained": "",
+      "lost": "SSD",
+      "n_group_dep20": 11,
+      "malawi_share": 25.76225471,
+      "rho_spar": -0.15801359
+    }
+  },
+  "malawi": {
+    "kff": 25.76225471,
+    "programme": 9.85343539,
+    "budget": 56.18249705,
+    "y2030_budget_pct_2023": 128.81127353
+  },
+  "currency": {
+    "n_dep3y_ge20": 13,
+    "n_dep1y_ge20": 12,
+    "n_fx_obs": 34,
+    "group_dep3y_ge20": 6,
+    "dep20_new": ["Burundi", "Côte d'Ivoire", "Niger"],
+    "n_dep20": 13,
+    "n_dep30": 13,
+    "dep20_documented_new": ["Burundi", "Côte d'Ivoire"],
+    "n_usd_documented": 19,
+    "n_usd_assumed": 33
+  },
+  "trends": {
+    "n_complete": 33,
+    "incomplete": "South Sudan",
+    "usd_cagr_median": 5.75930586,
+    "real_cagr_median": 4.7520193,
+    "usd_decline": ["Angola", "Burundi", "Lesotho", "Madagascar", "Malawi", "Nigeria", "Sierra Leone"],
+    "real_decline": ["Burundi", "Lesotho", "Madagascar", "Malawi"],
+    "usd_decline_real_growth": ["Angola", "Nigeria", "Sierra Leone"]
+  },
+  "debt": {
+    "n_rated": 25,
+    "n_high": 11,
+    "n_distress": 2,
+    "distress": ["Ethiopia", "Malawi"],
+    "n_high_or_distress": 13,
+    "pub_first": "June 2023",
+    "pub_last": "July 2026",
+    "interest_revenue_median": 12.478,
+    "n_interest": 27
+  },
+  "us_functions": {
+    "n_countries": 17,
+    "total_2026_usd_m": 894.418145,
+    "total_2030_usd_m": 298.20326,
+    "change_pct": -66.65952478,
+    "excl_bwa_2026_usd_m": 882.653729,
+    "excl_bwa_2030_usd_m": 298.20326,
+    "excl_bwa_change_pct": -66.21514755,
+    "by_area_16": {
+      "Health Workforce": -79.25876869,
+      "Laboratory Systems": -66.60458114,
+      "Commodities": -64.72139027,
+      "Data Systems": -61.36928395,
+      "Strategic Investments": -23.13643404,
+      "Surveillance & Outbreak Response": -17.30302617
+    },
+    "by_area": {
+      "Health Workforce": -79.61226758,
+      "Laboratory Systems": -66.74313893,
+      "Commodities": -64.86250881,
+      "Data Systems": -62.0792763,
+      "Strategic Investments": -24.29391592,
+      "Surveillance & Outbreak Response": -18.413227
+    },
+    "drop_pct_gghed_max": 23.52119742,
+    "drop_pct_gghed_max_country": "Malawi",
+    "top4": [
+      {
+        "country": "Malawi",
+        "hs_drop_pct_gghed": 23.52119742
+      },
+      {
+        "country": "Liberia",
+        "hs_drop_pct_gghed": 17.7888104
+      },
+      {
+        "country": "Uganda",
+        "hs_drop_pct_gghed": 16.92393176
+      },
+      {
+        "country": "Zambia",
+        "hs_drop_pct_gghed": 15.73790849
+      }
+    ],
+    "group_in_area_file": ["Botswana", "Cameroon", "Lesotho", "Liberia", "Malawi", "Nigeria", "Sierra Leone", "Uganda"],
+    "annual_n_columns": 16,
+    "annual_n_2026": 15,
+    "annual_n_both": 14,
+    "annual_both_2026_usd_bn": 2.60406478,
+    "annual_both_2030_usd_bn": 1.28250222,
+    "annual_both_change_pct": -50.74998791
+  },
+  "pandemic_fund": {
+    "n_single": 17,
+    "single_total_usd_m": 383.322503,
+    "n_named_only": 9,
+    "n_not_named": 8,
+    "n_cfp4": 7,
+    "efp_n": 9,
+    "efp_all_signed_by_oct": true,
+    "efp_signed_by_29may": 6,
+    "efp_signed_after": ["South Sudan", "United Republic of Tanzania", "Zambia"]
+  },
+  "workforce": {
+    "n_obs": 34,
+    "n_below": 31,
+    "n_years_differ": 5,
+    "median": 13.365
+  },
+  "status_cmp": [
+    {
+      "population": "All index countries",
+      "index": "AHS 2026",
+      "agreement": "No agreement",
+      "n": 29,
+      "p25": 32.45,
+      "median": 38.75,
+      "p75": 42.76
+    },
+    {
+      "population": "All index countries",
+      "index": "AHS 2026",
+      "agreement": "Agreement",
+      "n": 25,
+      "p25": 38.13,
+      "median": 44.39,
+      "p75": 52.17
+    },
+    {
+      "population": "All index countries",
+      "index": "GHS 2021",
+      "agreement": "No agreement",
+      "n": 159,
+      "p25": 28.8,
+      "median": 38.3,
+      "p75": 51.7
+    },
+    {
+      "population": "All index countries",
+      "index": "GHS 2021",
+      "agreement": "Agreement",
+      "n": 36,
+      "p25": 28.675,
+      "median": 30.65,
+      "p75": 34.8
+    },
+    {
+      "population": "African countries in both indices",
+      "index": "GHS 2021",
+      "agreement": "No agreement",
+      "n": 29,
+      "p25": 24.9,
+      "median": 26.6,
+      "p75": 31.5
+    },
+    {
+      "population": "African countries in both indices",
+      "index": "GHS 2021",
+      "agreement": "Agreement",
+      "n": 25,
+      "p25": 28.6,
+      "median": 30.4,
+      "p75": 33.1
+    },
+    {
+      "population": "Low and middle income (WHO expenditure file)",
+      "index": "GHS 2021",
+      "agreement": "No agreement",
+      "n": 94,
+      "p25": 26.325,
+      "median": 32.9,
+      "p75": 41
+    },
+    {
+      "population": "Low and middle income (WHO expenditure file)",
+      "index": "GHS 2021",
+      "agreement": "Agreement",
+      "n": 35,
+      "p25": 28.65,
+      "median": 30.4,
+      "p75": 34.05
+    },
+    {
+      "population": "All index countries except the United States",
+      "index": "GHS 2021",
+      "agreement": "No agreement",
+      "n": 158,
+      "p25": 28.8,
+      "median": 37.55,
+      "p75": 51.425
+    },
+    {
+      "population": "All index countries except the United States",
+      "index": "GHS 2021",
+      "agreement": "Agreement",
+      "n": 36,
+      "p25": 28.675,
+      "median": 30.65,
+      "p75": 34.8
+    }
+  ],
+  "lmic_compare": [
+    {
+      "group": "Agreement",
+      "n": 35,
+      "n_ext": 35,
+      "ext_che_median": 18.19424438,
+      "n_gge": 35,
+      "gghed_gge_median": 6.58320475,
+      "n_spar": 35,
+      "spar_median": 54
+    },
+    {
+      "group": "Other low and middle income",
+      "n": 95,
+      "n_ext": 90,
+      "ext_che_median": 4.40077401,
+      "n_gge": 94,
+      "gghed_gge_median": 8.58999395,
+      "n_spar": 95,
+      "spar_median": 57
+    }
+  ],
+  "replication": [
+    {
+      "metric": "Median pledge share (%)",
+      "v4_value": 6.76,
+      "v5_rule_v4": 6.75843953,
+      "v5_primary": 6.75843953
+    },
+    {
+      "metric": "Upper quartile (%)",
+      "v4_value": 16.42,
+      "v5_rule_v4": 16.42021486,
+      "v5_primary": 17.71900497
+    },
+    {
+      "metric": "Countries in screening group",
+      "v4_value": 9,
+      "v5_rule_v4": 9,
+      "v5_primary": 10
+    },
+    {
+      "metric": "Botswana pledge share (%)",
+      "v4_value": 8.33,
+      "v5_rule_v4": 8.32651862,
+      "v5_primary": 13.87753104
+    },
+    {
+      "metric": "South Sudan pledge share (%)",
+      "v4_value": 11.09,
+      "v5_rule_v4": 11.09158612,
+      "v5_primary": 18.48597686
+    },
+    {
+      "metric": "Countries added by 20% depreciation",
+      "v4_value": 4,
+      "v5_rule_v4": 4,
+      "v5_primary": 3
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+id,section,where_in_the_article,reported_value,computed_from_results_json,decimals,source_if_not_computed,computed,computed_rounded,status
+P01,Introduction,36 countries had signed bilateral health agreements,36,R$populations$n_agreements,0,,36,36,reproduced
+P02,How large are the commitments?,the United States plans US$15.8bn,15.8,R$portfolio$us_34_usd_bn,1,,15.7829524,15.8,reproduced
+P03,How large are the commitments?,partner governments commit US$10.3bn,10.3,R$portfolio$partner_34_usd_bn,1,,10.26665108,10.3,reproduced
+P04,How large are the commitments?,representing 39% of total financing,39,R$portfolio$partner_share_34_pct,0,,39.41192844,39,reproduced
+P05,How large are the commitments?,planned US funding is 34% lower than in 2021-25,34,-R$portfolio$hist_change_pct,0,,33.70426347,34,reproduced
+P06,How large are the commitments?,"Among the 17 agreements reviewed, 41% allow US funding reductions",41,,0,Public Citizen and Partners In Health (reference 3): 7 of 17 texts,,,external source
+P07,How large are the commitments?,the most recent year available for all 34 countries,34,R$populations$n_both_components,0,,34,34,reproduced
+P08,How large are the commitments?,from 0.01% in Guatemala,0.01,R$pledge$min,2,,0.01257608,0.01,reproduced
+P09,How large are the commitments?,to 47.1% in Tanzania,47.1,R$pledge$max,1,,47.06003182,47.1,reproduced
+P10,How large are the commitments?,median 6.8%,6.8,R$pledge$median,1,,6.75843953,6.8,reproduced
+P11,How large are the commitments?,interquartile range 1.0%,1,R$pledge$q1,1,,0.9764898,1,reproduced
+P12,How large are the commitments?,-17.7%,17.7,R$pledge$q3,1,,17.71900497,17.7,reproduced
+P13,How large are the commitments?,All 12 countries with pledge shares of at least 10%,12,R$pledge$n_ge10,0,,12,12,reproduced
+P14,How large are the commitments?,the highest pledge share was 3.5% in Tajikistan,3.5,R$pledge$max_non_africa,1,,3.53097273,3.5,reproduced
+P15,How large are the commitments?,Uganda's average pledge share was 24.1%,24.1,R$uganda$mean_pct_2023,1,,24.06417333,24.1,reproduced
+P16,How large are the commitments?,its scheduled increase in 2030 alone equaled 45.2%,45.2,R$uganda$y2030_pct_2023,1,,45.24430003,45.2,reproduced
+P17,Where do large commitments meet weaker preparedness?,Twenty six of the 34 countries reported scores below,26,R$preparedness$n_below_63,0,,26,26,reproduced
+P18,Where do large commitments meet weaker preparedness?,the 2025 global average of 63,63,R$preparedness$spar_global_mean,0,,63,63,reproduced
+P19,Where do large commitments meet weaker preparedness?,Spearman's rho=0.04,0.04,R$cor$pledge_spar$rho,2,,0.03517628,0.04,reproduced
+P20,Where do large commitments meet weaker preparedness?,95% confidence interval -0.35,-0.35,R$cor$pledge_spar$lo,2,,-0.35297968,-0.35,reproduced
+P21,Where do large commitments meet weaker preparedness?,to 0.40,0.4,R$cor$pledge_spar$hi,2,,0.40257136,0.4,reproduced
+P22,Where do large commitments meet weaker preparedness?,Ten countries had pledge shares of at least 10% and SPAR scores below the global average,10,R$group$n,0,,10,10,reproduced
+P23,Where do large commitments meet weaker preparedness?,approximately 462 million people,462,R$group$pop_m,0,,462.035081,462,reproduced
+P24,Where do large commitments meet weaker preparedness?,a 5% pledge-share threshold identifies 15 countries,15,"R$grid$n[R$grid$threshold == 5 & startsWith(R$grid$measure, 'SPAR')]",0,,15,15,reproduced
+P25,Where do large commitments meet weaker preparedness?,a 20% threshold identifies five,5,"R$grid$n[R$grid$threshold == 20 & startsWith(R$grid$measure, 'SPAR')]",0,,5,5,reproduced
+P26,Where do large commitments meet weaker preparedness?,"Global Health Security Index, seven of the ten countries remain below the index median",7,length(R$robust$spar_and_ghs),0,,7,7,reproduced
+P27,Where do large commitments meet weaker preparedness?,"Africa Health Security Index, only South Sudan and Tanzania",2,"R$grid$n[R$grid$threshold == 10 & startsWith(R$grid$measure, 'AHS')]",0,,2,2,reproduced
+P28,"Debt, exchange rates and falling US support add pressure",Among the 25 signatories assessed,25,R$debt$n_rated,0,,25,25,reproduced
+P29,"Debt, exchange rates and falling US support add pressure",13 were either at high risk of debt distress or already in distress,13,R$debt$n_high_or_distress,0,,13,13,reproduced
+P30,"Debt, exchange rates and falling US support add pressure",five were at high risk of debt distress or already in distress,5,R$group$n_high_or_distress,0,,5,5,reproduced
+P31,"Debt, exchange rates and falling US support add pressure",13 of the 34 signatory countries experienced a depreciation of at least 20%,13,R$currency$n_dep3y_ge20,0,,13,13,reproduced
+P32,"Debt, exchange rates and falling US support add pressure",would increase the domestic budget share ... by 25%,25,100 * (1 / (1 - 0.20) - 1),0,Arithmetic,25,25,reproduced
+P33,"Debt, exchange rates and falling US support add pressure","Burundi, Cote d'Ivoire and Niger would join the group",3,length(R$currency$dep20_new),0,,3,3,reproduced
+P34,"Debt, exchange rates and falling US support add pressure",Across the 16 five-year agreements with published budgets by area,16,R$us_functions$n_countries - 1,0,,16,16,reproduced
+P35,"Debt, exchange rates and falling US support add pressure",falls from US$883m in 2026,883,R$us_functions$excl_bwa_2026_usd_m,0,,882.653729,883,reproduced
+P36,"Debt, exchange rates and falling US support add pressure",to US$298m in 2030,298,R$us_functions$excl_bwa_2030_usd_m,0,,298.20326,298,reproduced
+P37,"Debt, exchange rates and falling US support add pressure",a 66% reduction,66,-R$us_functions$excl_bwa_change_pct,0,,66.21514755,66,reproduced
+P38,"Debt, exchange rates and falling US support add pressure",Workforce funding shows the largest decrease (79%),79,-R$us_functions$by_area_16[['Health Workforce']],0,,79.25876869,79,reproduced
+P39,"Debt, exchange rates and falling US support add pressure",surveillance and outbreak response declines by 17%,17,-R$us_functions$by_area_16[['Surveillance & Outbreak Response']],0,,17.30302617,17,reproduced
+P40,"Debt, exchange rates and falling US support add pressure","In Malawi, the planned annual reduction alone equals 23.5%",23.5,R$us_functions$drop_pct_gghed_max,1,,23.52119742,23.5,reproduced
+P41,Preparedness grants reach some signatories,17 of the 34 signatories received single-country awards,17,R$pandemic_fund$n_single,0,,17,17,reproduced
+P42,Preparedness grants reach some signatories,totalling US$383m,383,R$pandemic_fund$single_total_usd_m,0,,383.322503,383,reproduced
+P43,Preparedness grants reach some signatories,Five of the ten countries ... did not receive a single-country award,5,R$group$n_no_single,0,,5,5,reproduced
+P44,Preparedness grants reach some signatories,among 15 countries invited to a targeted funding call,15,,0,Pandemic Fund fourth call guidance note (reference 15),,,external source
+P45,Why fixed schedules matter in an outbreak,a 1% deviation ... was associated with a 0.61% deviation,0.61,,2,Liang and Tussing 2019 (reference 16),,,external source
+P46,Why fixed schedules matter in an outbreak,schedules an additional US$217m above the 2025 level by 2030,217,R$uganda$y2030_usd_m,0,,216.970199,217,reproduced
+P47,Why fixed schedules matter in an outbreak,the Pandemic Fund made up to US$220.6m available,220.6,,1,"Pandemic Fund board statement, 29 May 2026 (reference 19)",,,external source
+P48,Why fixed schedules matter in an outbreak,existing grants across nine countries,9,R$pandemic_fund$efp_n,0,,9,9,reproduced
+P49,Table 1,"Large commitments, lower preparedness (10)",10,R$quadrants$A,0,,10,10,reproduced
+P50,Table 1,"Large commitments, higher preparedness (2)",2,R$quadrants$B,0,,2,2,reproduced
+P51,Table 1,"Smaller commitments, lower preparedness (16)",16,R$quadrants$C,0,,16,16,reproduced
+P52,Table 1,"Smaller commitments, higher preparedness (6)",6,R$quadrants$D,0,,6,6,reproduced
+P53,Limitations,Fourteen of the 34 commitment amounts were derived from official announcements,14,R$populations$n_announcements,0,,14,14,reproduced
+P54,Limitations,pledge shares of either 9.9%,9.9,R$malawi$programme,1,,9.85343539,9.9,reproduced
+P55,Limitations,or 56.2%,56.2,R$malawi$budget,1,,56.18249705,56.2,reproduced
+P56,Limitations,compared with 25.8% in the tracker dataset,25.8,R$malawi$kff,1,,25.76225471,25.8,reproduced
+P57,Limitations,the 20 commitments verified against signed agreements,20,R$populations$n_signed_texts,0,,20,20,reproduced
+P58,Limitations,retains nine of the ten countries,9,R$scenarios$signed_only$n_group,0,,9,9,reproduced
+P59,Key messages,US$10.3bn in partner-government commitments,10.3,R$portfolio$partner_34_usd_bn,1,,10.26665108,10.3,reproduced
+P60,Key messages,falls by about two thirds between 2026 and 2030,66,-R$us_functions$excl_bwa_change_pct,0,Reported in words,66.21514755,66,reproduced
+P61,Figure 1 legend,the three countries that enter the shaded area,3,length(R$currency$dep20_new),0,,3,3,reproduced
