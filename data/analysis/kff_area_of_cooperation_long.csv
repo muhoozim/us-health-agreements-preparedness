@@ -1,0 +1,511 @@
+iso3,area,health_security_area,year,us_funding_usd
+BWA,Surveillance & Outbreak Response,TRUE,2026,800000
+BWA,Surveillance & Outbreak Response,TRUE,2027,1000000
+BWA,Surveillance & Outbreak Response,TRUE,2028,1000000
+BWA,Surveillance & Outbreak Response,TRUE,2029,0
+BWA,Surveillance & Outbreak Response,TRUE,2030,0
+BDI,Surveillance & Outbreak Response,TRUE,2026,1024421
+BDI,Surveillance & Outbreak Response,TRUE,2027,694720
+BDI,Surveillance & Outbreak Response,TRUE,2028,708501
+BDI,Surveillance & Outbreak Response,TRUE,2029,966000
+BDI,Surveillance & Outbreak Response,TRUE,2030,966000
+CMR,Surveillance & Outbreak Response,TRUE,2026,8460000
+CMR,Surveillance & Outbreak Response,TRUE,2027,7680000
+CMR,Surveillance & Outbreak Response,TRUE,2028,7210000
+CMR,Surveillance & Outbreak Response,TRUE,2029,6120000
+CMR,Surveillance & Outbreak Response,TRUE,2030,4020000
+CIV,Surveillance & Outbreak Response,TRUE,2026,3916000
+CIV,Surveillance & Outbreak Response,TRUE,2027,3916000
+CIV,Surveillance & Outbreak Response,TRUE,2028,3916000
+CIV,Surveillance & Outbreak Response,TRUE,2029,3916000
+CIV,Surveillance & Outbreak Response,TRUE,2030,3916000
+SWZ,Surveillance & Outbreak Response,TRUE,2026,2452862
+SWZ,Surveillance & Outbreak Response,TRUE,2027,2722862
+SWZ,Surveillance & Outbreak Response,TRUE,2028,6253154
+SWZ,Surveillance & Outbreak Response,TRUE,2029,4924779
+SWZ,Surveillance & Outbreak Response,TRUE,2030,2614555
+ETH,Surveillance & Outbreak Response,TRUE,2026,7512850
+ETH,Surveillance & Outbreak Response,TRUE,2027,7418368
+ETH,Surveillance & Outbreak Response,TRUE,2028,6759200
+ETH,Surveillance & Outbreak Response,TRUE,2029,6205861
+ETH,Surveillance & Outbreak Response,TRUE,2030,5055669
+KEN,Surveillance & Outbreak Response,TRUE,2026,4506350
+KEN,Surveillance & Outbreak Response,TRUE,2027,4506350
+KEN,Surveillance & Outbreak Response,TRUE,2028,4506350
+KEN,Surveillance & Outbreak Response,TRUE,2029,4506350
+KEN,Surveillance & Outbreak Response,TRUE,2030,4506350
+LSO,Surveillance & Outbreak Response,TRUE,2026,765000
+LSO,Surveillance & Outbreak Response,TRUE,2027,536000
+LSO,Surveillance & Outbreak Response,TRUE,2028,536000
+LSO,Surveillance & Outbreak Response,TRUE,2029,536000
+LSO,Surveillance & Outbreak Response,TRUE,2030,536000
+LBR,Surveillance & Outbreak Response,TRUE,2026,2519792
+LBR,Surveillance & Outbreak Response,TRUE,2027,2519792
+LBR,Surveillance & Outbreak Response,TRUE,2028,2519792
+LBR,Surveillance & Outbreak Response,TRUE,2029,1519792
+LBR,Surveillance & Outbreak Response,TRUE,2030,2519792
+MDG,Surveillance & Outbreak Response,TRUE,2026,1163000
+MDG,Surveillance & Outbreak Response,TRUE,2027,1163000
+MDG,Surveillance & Outbreak Response,TRUE,2028,1163000
+MDG,Surveillance & Outbreak Response,TRUE,2029,1163000
+MDG,Surveillance & Outbreak Response,TRUE,2030,1163000
+MWI,Surveillance & Outbreak Response,TRUE,2026,3281540
+MWI,Surveillance & Outbreak Response,TRUE,2027,3281540
+MWI,Surveillance & Outbreak Response,TRUE,2028,3281540
+MWI,Surveillance & Outbreak Response,TRUE,2029,3281540
+MWI,Surveillance & Outbreak Response,TRUE,2030,3281540
+MOZ,Surveillance & Outbreak Response,TRUE,2026,7300000
+MOZ,Surveillance & Outbreak Response,TRUE,2027,27600000
+MOZ,Surveillance & Outbreak Response,TRUE,2028,6000000
+MOZ,Surveillance & Outbreak Response,TRUE,2029,19300000
+MOZ,Surveillance & Outbreak Response,TRUE,2030,4300000
+NGA,Surveillance & Outbreak Response,TRUE,2026,4171000
+NGA,Surveillance & Outbreak Response,TRUE,2027,4171000
+NGA,Surveillance & Outbreak Response,TRUE,2028,4171000
+NGA,Surveillance & Outbreak Response,TRUE,2029,4171000
+NGA,Surveillance & Outbreak Response,TRUE,2030,4171000
+RWA,Surveillance & Outbreak Response,TRUE,2026,2462640
+RWA,Surveillance & Outbreak Response,TRUE,2027,4462640
+RWA,Surveillance & Outbreak Response,TRUE,2028,3462640
+RWA,Surveillance & Outbreak Response,TRUE,2029,3462640
+RWA,Surveillance & Outbreak Response,TRUE,2030,3462640
+SLE,Surveillance & Outbreak Response,TRUE,2026,2200000
+SLE,Surveillance & Outbreak Response,TRUE,2027,2200000
+SLE,Surveillance & Outbreak Response,TRUE,2028,2200000
+SLE,Surveillance & Outbreak Response,TRUE,2029,2200000
+SLE,Surveillance & Outbreak Response,TRUE,2030,2200000
+UGA,Surveillance & Outbreak Response,TRUE,2026,5092000
+UGA,Surveillance & Outbreak Response,TRUE,2027,5092000
+UGA,Surveillance & Outbreak Response,TRUE,2028,5092000
+UGA,Surveillance & Outbreak Response,TRUE,2029,5092000
+UGA,Surveillance & Outbreak Response,TRUE,2030,5092000
+ZMB,Surveillance & Outbreak Response,TRUE,2026,1963186
+ZMB,Surveillance & Outbreak Response,TRUE,2027,1697072
+ZMB,Surveillance & Outbreak Response,TRUE,2028,1487985
+ZMB,Surveillance & Outbreak Response,TRUE,2029,1193301
+ZMB,Surveillance & Outbreak Response,TRUE,2030,813535
+BWA,Laboratory Systems,TRUE,2026,1156826
+BWA,Laboratory Systems,TRUE,2027,375000
+BWA,Laboratory Systems,TRUE,2028,325000
+BWA,Laboratory Systems,TRUE,2029,0
+BWA,Laboratory Systems,TRUE,2030,0
+BDI,Laboratory Systems,TRUE,2026,1047478
+BDI,Laboratory Systems,TRUE,2027,1601295
+BDI,Laboratory Systems,TRUE,2028,1630766
+BDI,Laboratory Systems,TRUE,2029,218000
+BDI,Laboratory Systems,TRUE,2030,200000
+CMR,Laboratory Systems,TRUE,2026,7560000
+CMR,Laboratory Systems,TRUE,2027,7380000
+CMR,Laboratory Systems,TRUE,2028,6750000
+CMR,Laboratory Systems,TRUE,2029,5720000
+CMR,Laboratory Systems,TRUE,2030,3770000
+CIV,Laboratory Systems,TRUE,2026,5600000
+CIV,Laboratory Systems,TRUE,2027,4600000
+CIV,Laboratory Systems,TRUE,2028,3600000
+CIV,Laboratory Systems,TRUE,2029,2500000
+CIV,Laboratory Systems,TRUE,2030,1800000
+SWZ,Laboratory Systems,TRUE,2026,6490372
+SWZ,Laboratory Systems,TRUE,2027,5442833
+SWZ,Laboratory Systems,TRUE,2028,3166123
+SWZ,Laboratory Systems,TRUE,2029,2044813
+SWZ,Laboratory Systems,TRUE,2030,820396
+ETH,Laboratory Systems,TRUE,2026,15465402
+ETH,Laboratory Systems,TRUE,2027,11597680
+ETH,Laboratory Systems,TRUE,2028,7735446
+ETH,Laboratory Systems,TRUE,2029,3867722
+ETH,Laboratory Systems,TRUE,2030,0
+KEN,Laboratory Systems,TRUE,2026,21423267
+KEN,Laboratory Systems,TRUE,2027,14780877
+KEN,Laboratory Systems,TRUE,2028,7390439
+KEN,Laboratory Systems,TRUE,2029,0
+KEN,Laboratory Systems,TRUE,2030,0
+LSO,Laboratory Systems,TRUE,2026,3010000
+LSO,Laboratory Systems,TRUE,2027,2591000
+LSO,Laboratory Systems,TRUE,2028,2466000
+LSO,Laboratory Systems,TRUE,2029,1755000
+LSO,Laboratory Systems,TRUE,2030,1116000
+LBR,Laboratory Systems,TRUE,2026,6257394
+LBR,Laboratory Systems,TRUE,2027,6530344
+LBR,Laboratory Systems,TRUE,2028,5860094
+LBR,Laboratory Systems,TRUE,2029,1863044
+LBR,Laboratory Systems,TRUE,2030,2760400
+MDG,Laboratory Systems,TRUE,2026,552327
+MDG,Laboratory Systems,TRUE,2027,494045
+MDG,Laboratory Systems,TRUE,2028,431591
+MDG,Laboratory Systems,TRUE,2029,347945
+MDG,Laboratory Systems,TRUE,2030,275669
+MWI,Laboratory Systems,TRUE,2026,4403919
+MWI,Laboratory Systems,TRUE,2027,3249173
+MWI,Laboratory Systems,TRUE,2028,2490074
+MWI,Laboratory Systems,TRUE,2029,1534704
+MWI,Laboratory Systems,TRUE,2030,775605
+MOZ,Laboratory Systems,TRUE,2026,33080665
+MOZ,Laboratory Systems,TRUE,2027,33014665
+MOZ,Laboratory Systems,TRUE,2028,32882665
+MOZ,Laboratory Systems,TRUE,2029,32684665
+MOZ,Laboratory Systems,TRUE,2030,32222465
+NGA,Laboratory Systems,TRUE,2026,74759214
+NGA,Laboratory Systems,TRUE,2027,60024242
+NGA,Laboratory Systems,TRUE,2028,32835329
+NGA,Laboratory Systems,TRUE,2029,23603916
+NGA,Laboratory Systems,TRUE,2030,21133990
+RWA,Laboratory Systems,TRUE,2026,1340844
+RWA,Laboratory Systems,TRUE,2027,2681686
+RWA,Laboratory Systems,TRUE,2028,1809035
+RWA,Laboratory Systems,TRUE,2029,115000
+RWA,Laboratory Systems,TRUE,2030,0
+SLE,Laboratory Systems,TRUE,2026,595912
+SLE,Laboratory Systems,TRUE,2027,595912
+SLE,Laboratory Systems,TRUE,2028,595912
+SLE,Laboratory Systems,TRUE,2029,0
+SLE,Laboratory Systems,TRUE,2030,0
+UGA,Laboratory Systems,TRUE,2026,52757874
+UGA,Laboratory Systems,TRUE,2027,43525246
+UGA,Laboratory Systems,TRUE,2028,34292618
+UGA,Laboratory Systems,TRUE,2029,25059990
+UGA,Laboratory Systems,TRUE,2030,16452728
+ZMB,Laboratory Systems,TRUE,2026,43318554
+ZMB,Laboratory Systems,TRUE,2027,33513748
+ZMB,Laboratory Systems,TRUE,2028,17668512
+ZMB,Laboratory Systems,TRUE,2029,13917332
+ZMB,Laboratory Systems,TRUE,2030,11399543
+BWA,Commodities,FALSE,2026,2195364
+BWA,Commodities,FALSE,2027,550000
+BWA,Commodities,FALSE,2028,550000
+BWA,Commodities,FALSE,2029,0
+BWA,Commodities,FALSE,2030,0
+BDI,Commodities,FALSE,2026,11054700
+BDI,Commodities,FALSE,2027,9950553
+BDI,Commodities,FALSE,2028,9085239
+BDI,Commodities,FALSE,2029,7609120
+BDI,Commodities,FALSE,2030,7672108
+CMR,Commodities,FALSE,2026,11800000
+CMR,Commodities,FALSE,2027,11800000
+CMR,Commodities,FALSE,2028,10700000
+CMR,Commodities,FALSE,2029,9080000
+CMR,Commodities,FALSE,2030,5970000
+CIV,Commodities,FALSE,2026,30500000
+CIV,Commodities,FALSE,2027,19500000
+CIV,Commodities,FALSE,2028,18500000
+CIV,Commodities,FALSE,2029,10000000
+CIV,Commodities,FALSE,2030,6500000
+SWZ,Commodities,FALSE,2026,1297232
+SWZ,Commodities,FALSE,2027,902697
+SWZ,Commodities,FALSE,2028,489521
+SWZ,Commodities,FALSE,2029,257629
+SWZ,Commodities,FALSE,2030,0
+ETH,Commodities,FALSE,2026,28504110
+ETH,Commodities,FALSE,2027,28504110
+ETH,Commodities,FALSE,2028,14252055
+ETH,Commodities,FALSE,2029,7126027
+ETH,Commodities,FALSE,2030,0
+KEN,Commodities,FALSE,2026,94782231
+KEN,Commodities,FALSE,2027,44869339
+KEN,Commodities,FALSE,2028,44869339
+KEN,Commodities,FALSE,2029,29912892
+KEN,Commodities,FALSE,2030,14956446
+LSO,Commodities,FALSE,2026,0
+LSO,Commodities,FALSE,2027,0
+LSO,Commodities,FALSE,2028,0
+LSO,Commodities,FALSE,2029,0
+LSO,Commodities,FALSE,2030,0
+LBR,Commodities,FALSE,2026,10539600
+LBR,Commodities,FALSE,2027,8439600
+LBR,Commodities,FALSE,2028,7039600
+LBR,Commodities,FALSE,2029,5039600
+LBR,Commodities,FALSE,2030,539600
+MDG,Commodities,FALSE,2026,13732250
+MDG,Commodities,FALSE,2027,12015719
+MDG,Commodities,FALSE,2028,10299188
+MDG,Commodities,FALSE,2029,8582657
+MDG,Commodities,FALSE,2030,6866126
+MWI,Commodities,FALSE,2026,26253168
+MWI,Commodities,FALSE,2027,21027415
+MWI,Commodities,FALSE,2028,15825109
+MWI,Commodities,FALSE,2029,13722918
+MWI,Commodities,FALSE,2030,3238746
+MOZ,Commodities,FALSE,2026,69111507
+MOZ,Commodities,FALSE,2027,66111507
+MOZ,Commodities,FALSE,2028,64111507
+MOZ,Commodities,FALSE,2029,64111507
+MOZ,Commodities,FALSE,2030,59111507
+NGA,Commodities,FALSE,2026,133188061
+NGA,Commodities,FALSE,2027,88948866
+NGA,Commodities,FALSE,2028,85038295
+NGA,Commodities,FALSE,2029,84562080
+NGA,Commodities,FALSE,2030,50405150
+RWA,Commodities,FALSE,2026,5735645
+RWA,Commodities,FALSE,2027,17537289
+RWA,Commodities,FALSE,2028,16925289
+RWA,Commodities,FALSE,2029,4957200
+RWA,Commodities,FALSE,2030,0
+SLE,Commodities,FALSE,2026,9855419
+SLE,Commodities,FALSE,2027,7884335
+SLE,Commodities,FALSE,2028,5913251
+SLE,Commodities,FALSE,2029,3942168
+SLE,Commodities,FALSE,2030,1971083
+UGA,Commodities,FALSE,2026,50454474
+UGA,Commodities,FALSE,2027,41624941
+UGA,Commodities,FALSE,2028,32795408
+UGA,Commodities,FALSE,2029,23965875
+UGA,Commodities,FALSE,2030,21320105
+ZMB,Commodities,FALSE,2026,49821276
+ZMB,Commodities,FALSE,2027,37365957
+ZMB,Commodities,FALSE,2028,18682978
+ZMB,Commodities,FALSE,2029,15880531
+ZMB,Commodities,FALSE,2030,14292478
+BWA,Health Workforce,TRUE,2026,5247590
+BWA,Health Workforce,TRUE,2027,4800000
+BWA,Health Workforce,TRUE,2028,4300000
+BWA,Health Workforce,TRUE,2029,0
+BWA,Health Workforce,TRUE,2030,0
+BDI,Health Workforce,TRUE,2026,277200
+BDI,Health Workforce,TRUE,2027,242400
+BDI,Health Workforce,TRUE,2028,94400
+BDI,Health Workforce,TRUE,2029,40000
+BDI,Health Workforce,TRUE,2030,0
+CMR,Health Workforce,TRUE,2026,22170000
+CMR,Health Workforce,TRUE,2027,20110000
+CMR,Health Workforce,TRUE,2028,18880000
+CMR,Health Workforce,TRUE,2029,16020000
+CMR,Health Workforce,TRUE,2030,10530000
+CIV,Health Workforce,TRUE,2026,13400000
+CIV,Health Workforce,TRUE,2027,10400000
+CIV,Health Workforce,TRUE,2028,5800000
+CIV,Health Workforce,TRUE,2029,1400000
+CIV,Health Workforce,TRUE,2030,700000
+SWZ,Health Workforce,TRUE,2026,6754724
+SWZ,Health Workforce,TRUE,2027,6644724
+SWZ,Health Workforce,TRUE,2028,3715098
+SWZ,Health Workforce,TRUE,2029,1857549
+SWZ,Health Workforce,TRUE,2030,0
+ETH,Health Workforce,TRUE,2026,14173411
+ETH,Health Workforce,TRUE,2027,10629621
+ETH,Health Workforce,TRUE,2028,7087580
+ETH,Health Workforce,TRUE,2029,3543790
+ETH,Health Workforce,TRUE,2030,0
+KEN,Health Workforce,TRUE,2026,45735429
+KEN,Health Workforce,TRUE,2027,30490286
+KEN,Health Workforce,TRUE,2028,0
+KEN,Health Workforce,TRUE,2029,0
+KEN,Health Workforce,TRUE,2030,0
+LSO,Health Workforce,TRUE,2026,11125000
+LSO,Health Workforce,TRUE,2027,6966000
+LSO,Health Workforce,TRUE,2028,4862000
+LSO,Health Workforce,TRUE,2029,2592000
+LSO,Health Workforce,TRUE,2030,0
+LBR,Health Workforce,TRUE,2026,1405536
+LBR,Health Workforce,TRUE,2027,1008480
+LBR,Health Workforce,TRUE,2028,784320
+LBR,Health Workforce,TRUE,2029,392160
+LBR,Health Workforce,TRUE,2030,0
+MDG,Health Workforce,TRUE,2026,7317916
+MDG,Health Workforce,TRUE,2027,6403209
+MDG,Health Workforce,TRUE,2028,5457506
+MDG,Health Workforce,TRUE,2029,4573299
+MDG,Health Workforce,TRUE,2030,3659640
+MWI,Health Workforce,TRUE,2026,22721938
+MWI,Health Workforce,TRUE,2027,7760106
+MWI,Health Workforce,TRUE,2028,5782409
+MWI,Health Workforce,TRUE,2029,3804713
+MWI,Health Workforce,TRUE,2030,1827017
+MOZ,Health Workforce,TRUE,2026,36963448
+MOZ,Health Workforce,TRUE,2027,32654200
+MOZ,Health Workforce,TRUE,2028,27042028
+MOZ,Health Workforce,TRUE,2029,24854804
+MOZ,Health Workforce,TRUE,2030,21324198
+NGA,Health Workforce,TRUE,2026,23600000
+NGA,Health Workforce,TRUE,2027,12000000
+NGA,Health Workforce,TRUE,2028,11800000
+NGA,Health Workforce,TRUE,2029,5900000
+NGA,Health Workforce,TRUE,2030,5700000
+RWA,Health Workforce,TRUE,2026,4272578
+RWA,Health Workforce,TRUE,2027,6836124
+RWA,Health Workforce,TRUE,2028,5468899
+RWA,Health Workforce,TRUE,2029,230000
+RWA,Health Workforce,TRUE,2030,0
+SLE,Health Workforce,TRUE,2026,743580
+SLE,Health Workforce,TRUE,2027,658800
+SLE,Health Workforce,TRUE,2028,574020
+SLE,Health Workforce,TRUE,2029,169560
+SLE,Health Workforce,TRUE,2030,84780
+UGA,Health Workforce,TRUE,2026,28519570
+UGA,Health Workforce,TRUE,2027,23635877
+UGA,Health Workforce,TRUE,2028,16896027
+UGA,Health Workforce,TRUE,2029,8715804
+UGA,Health Workforce,TRUE,2030,0
+ZMB,Health Workforce,TRUE,2026,63469730
+ZMB,Health Workforce,TRUE,2027,51873378
+ZMB,Health Workforce,TRUE,2028,43176114
+ZMB,Health Workforce,TRUE,2029,28111005
+ZMB,Health Workforce,TRUE,2030,18947714
+BWA,Data Systems,TRUE,2026,4560000
+BWA,Data Systems,TRUE,2027,4496000
+BWA,Data Systems,TRUE,2028,3110000
+BWA,Data Systems,TRUE,2029,0
+BWA,Data Systems,TRUE,2030,0
+BDI,Data Systems,TRUE,2026,1885264
+BDI,Data Systems,TRUE,2027,1697264
+BDI,Data Systems,TRUE,2028,1471664
+BDI,Data Systems,TRUE,2029,569664
+BDI,Data Systems,TRUE,2030,475264
+CMR,Data Systems,TRUE,2026,13370000
+CMR,Data Systems,TRUE,2027,12120000
+CMR,Data Systems,TRUE,2028,11380000
+CMR,Data Systems,TRUE,2029,9660000
+CMR,Data Systems,TRUE,2030,6350000
+CIV,Data Systems,TRUE,2026,16000000
+CIV,Data Systems,TRUE,2027,16000000
+CIV,Data Systems,TRUE,2028,12500000
+CIV,Data Systems,TRUE,2029,11000000
+CIV,Data Systems,TRUE,2030,11000000
+SWZ,Data Systems,TRUE,2026,10477354
+SWZ,Data Systems,TRUE,2027,9464970
+SWZ,Data Systems,TRUE,2028,11360778
+SWZ,Data Systems,TRUE,2029,9436149
+SWZ,Data Systems,TRUE,2030,6525195
+ETH,Data Systems,TRUE,2026,6283383
+ETH,Data Systems,TRUE,2027,5026706
+ETH,Data Systems,TRUE,2028,3770030
+ETH,Data Systems,TRUE,2029,2513353
+ETH,Data Systems,TRUE,2030,1256677
+KEN,Data Systems,TRUE,2026,30000000
+KEN,Data Systems,TRUE,2027,75000000
+KEN,Data Systems,TRUE,2028,50000000
+KEN,Data Systems,TRUE,2029,10000000
+KEN,Data Systems,TRUE,2030,10000000
+LSO,Data Systems,TRUE,2026,3066000
+LSO,Data Systems,TRUE,2027,2913000
+LSO,Data Systems,TRUE,2028,2796000
+LSO,Data Systems,TRUE,2029,2097000
+LSO,Data Systems,TRUE,2030,1363000
+LBR,Data Systems,TRUE,2026,8056796
+LBR,Data Systems,TRUE,2027,6705396
+LBR,Data Systems,TRUE,2028,6517396
+LBR,Data Systems,TRUE,2029,2054096
+LBR,Data Systems,TRUE,2030,2800000
+MDG,Data Systems,TRUE,2026,4900000
+MDG,Data Systems,TRUE,2027,4287500
+MDG,Data Systems,TRUE,2028,3675000
+MDG,Data Systems,TRUE,2029,3062500
+MDG,Data Systems,TRUE,2030,2450000
+MWI,Data Systems,TRUE,2026,9131229
+MWI,Data Systems,TRUE,2027,9131229
+MWI,Data Systems,TRUE,2028,9131229
+MWI,Data Systems,TRUE,2029,8218106
+MWI,Data Systems,TRUE,2030,7396295
+MOZ,Data Systems,TRUE,2026,16666385
+MOZ,Data Systems,TRUE,2027,28230116
+MOZ,Data Systems,TRUE,2028,18533429
+MOZ,Data Systems,TRUE,2029,11129710
+MOZ,Data Systems,TRUE,2030,8512439
+NGA,Data Systems,TRUE,2026,60000000
+NGA,Data Systems,TRUE,2027,49000000
+NGA,Data Systems,TRUE,2028,42000000
+NGA,Data Systems,TRUE,2029,23000000
+NGA,Data Systems,TRUE,2030,22000000
+RWA,Data Systems,TRUE,2026,1352974
+RWA,Data Systems,TRUE,2027,3600000
+RWA,Data Systems,TRUE,2028,0
+RWA,Data Systems,TRUE,2029,0
+RWA,Data Systems,TRUE,2030,0
+SLE,Data Systems,TRUE,2026,5014434
+SLE,Data Systems,TRUE,2027,4014434
+SLE,Data Systems,TRUE,2028,3014434
+SLE,Data Systems,TRUE,2029,2000000
+SLE,Data Systems,TRUE,2030,1000000
+UGA,Data Systems,TRUE,2026,26129831
+UGA,Data Systems,TRUE,2027,24779640
+UGA,Data Systems,TRUE,2028,25103354
+UGA,Data Systems,TRUE,2029,27294065
+UGA,Data Systems,TRUE,2030,9795399
+ZMB,Data Systems,TRUE,2026,31216156
+ZMB,Data Systems,TRUE,2027,8172087
+ZMB,Data Systems,TRUE,2028,4790620
+ZMB,Data Systems,TRUE,2029,3295073
+ZMB,Data Systems,TRUE,2030,3160765
+BWA,Strategic Investments,FALSE,2026,20590220
+BWA,Strategic Investments,FALSE,2027,21088832
+BWA,Strategic Investments,FALSE,2028,19900168
+BWA,Strategic Investments,FALSE,2029,0
+BWA,Strategic Investments,FALSE,2030,0
+BDI,Strategic Investments,FALSE,2026,19596217
+BDI,Strategic Investments,FALSE,2027,16939048
+BDI,Strategic Investments,FALSE,2028,13622710
+BDI,Strategic Investments,FALSE,2029,6682896
+BDI,Strategic Investments,FALSE,2030,3951908
+CMR,Strategic Investments,FALSE,2026,18470000
+CMR,Strategic Investments,FALSE,2027,16750000
+CMR,Strategic Investments,FALSE,2028,15730000
+CMR,Strategic Investments,FALSE,2029,13350000
+CMR,Strategic Investments,FALSE,2030,8770000
+CIV,Strategic Investments,FALSE,2026,47065040
+CIV,Strategic Investments,FALSE,2027,53229040
+CIV,Strategic Investments,FALSE,2028,54729040
+CIV,Strategic Investments,FALSE,2029,49125040
+CIV,Strategic Investments,FALSE,2030,32405040
+SWZ,Strategic Investments,FALSE,2026,19527456
+SWZ,Strategic Investments,FALSE,2027,21821914
+SWZ,Strategic Investments,FALSE,2028,19195324
+SWZ,Strategic Investments,FALSE,2029,14379082
+SWZ,Strategic Investments,FALSE,2030,11659854
+ETH,Strategic Investments,FALSE,2026,117060845
+ETH,Strategic Investments,FALSE,2027,176947735
+ETH,Strategic Investments,FALSE,2028,192399309
+ETH,Strategic Investments,FALSE,2029,151745056
+ETH,Strategic Investments,FALSE,2030,119727654
+KEN,Strategic Investments,FALSE,2026,102706246
+KEN,Strategic Investments,FALSE,2027,127637380
+KEN,Strategic Investments,FALSE,2028,168814814
+KEN,Strategic Investments,FALSE,2029,235118267
+KEN,Strategic Investments,FALSE,2030,113313280
+LSO,Strategic Investments,FALSE,2026,36554000
+LSO,Strategic Investments,FALSE,2027,38695000
+LSO,Strategic Investments,FALSE,2028,39160000
+LSO,Strategic Investments,FALSE,2029,30621000
+LSO,Strategic Investments,FALSE,2030,21425000
+LBR,Strategic Investments,FALSE,2026,7920362
+LBR,Strategic Investments,FALSE,2027,8581868
+LBR,Strategic Investments,FALSE,2028,7868278
+LBR,Strategic Investments,FALSE,2029,1766788
+LBR,Strategic Investments,FALSE,2030,2088688
+MDG,Strategic Investments,FALSE,2026,7384287
+MDG,Strategic Investments,FALSE,2027,5892307
+MDG,Strategic Investments,FALSE,2028,1446295
+MDG,Strategic Investments,FALSE,2029,3462379
+MDG,Strategic Investments,FALSE,2030,2916345
+MWI,Strategic Investments,FALSE,2026,113645746
+MWI,Strategic Investments,FALSE,2027,121452077
+MWI,Strategic Investments,FALSE,2028,119727170
+MWI,Strategic Investments,FALSE,2029,105635560
+MWI,Strategic Investments,FALSE,2030,90538336
+MOZ,Strategic Investments,FALSE,2026,278211995
+MOZ,Strategic Investments,FALSE,2027,216123512
+MOZ,Strategic Investments,FALSE,2028,237524371
+MOZ,Strategic Investments,FALSE,2029,169953314
+MOZ,Strategic Investments,FALSE,2030,150713391
+NGA,Strategic Investments,FALSE,2026,205000925
+NGA,Strategic Investments,FALSE,2027,241446632
+NGA,Strategic Investments,FALSE,2028,226166116
+NGA,Strategic Investments,FALSE,2029,217120144
+NGA,Strategic Investments,FALSE,2030,133442600
+RWA,Strategic Investments,FALSE,2026,16522983
+RWA,Strategic Investments,FALSE,2027,26627743
+RWA,Strategic Investments,FALSE,2028,13657797
+RWA,Strategic Investments,FALSE,2029,7036356
+RWA,Strategic Investments,FALSE,2030,93360
+SLE,Strategic Investments,FALSE,2026,17290655
+SLE,Strategic Investments,FALSE,2027,17346519
+SLE,Strategic Investments,FALSE,2028,15902383
+SLE,Strategic Investments,FALSE,2029,9888272
+SLE,Strategic Investments,FALSE,2030,8944137
+UGA,Strategic Investments,FALSE,2026,223096731
+UGA,Strategic Investments,FALSE,2027,220602776
+UGA,Strategic Investments,FALSE,2028,219231073
+UGA,Strategic Investments,FALSE,2029,207750746
+UGA,Strategic Investments,FALSE,2030,187502248
+ZMB,Strategic Investments,FALSE,2026,116667318
+ZMB,Strategic Investments,FALSE,2027,143991702
+ZMB,Strategic Investments,FALSE,2028,180256739
+ZMB,Strategic Investments,FALSE,2029,201301297
+ZMB,Strategic Investments,FALSE,2030,147645794
