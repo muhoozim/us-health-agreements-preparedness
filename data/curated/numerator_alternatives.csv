@@ -1,0 +1,5 @@
+iso3,measure_id,measure_label,partner_usd,us_usd,term_years,source,locator,use_in_analysis
+MWI,kff_headline,KFF tracker amount (equals the final-year increase in the signing announcement),143800000,792000000,5,KFF tracker (8 Oct 2026); Malawi-US MOU,"Section 5.1, printed p. 20 (2030 increase)",Primary analysis
+MWI,signed_programme_schedule,Signed Appendix 1 co-funding schedule (programme support),55000000,744832500,5,Malawi-US MOU (signed 13 Jan 2026),"Appendix 1, PDF p. 24",Sensitivity analysis
+MWI,signed_budget_increases,Signed section 5.1 sum of annual increases in domestic health spending above the 2025 baseline,313600000,792000000,5,Malawi-US MOU (signed 13 Jan 2026),"Section 5.1, printed pp. 19-20 (US$0m, 24m, 50m, 95.8m, 143.8m)",Sensitivity analysis
+PHL,embassy_split,US Embassy split reported in news coverage (rounded),492000000,193000000,5,"US Embassy statement reported 31 Jul and 1 Aug 2026","Country financing paragraph",Sensitivity analysis (adds a 35th country)
