@@ -1,0 +1,35 @@
+iso3,Country,Region,Signature date,Term (years),Evidence,US funding (US$m),Partner commitment (US$m),2023 domestic government health spending (US$m),Pledge share (%),SPAR 2025,GHS 2021,AHS 2026,Debt distress rating,Rating date,External share of health spending (%),Pandemic Fund,Type
+TZA,United Republic of Tanzania,Africa,2026-07-01,5,Official announcement,1300,1800,764.9803582236136,47.06003182042059,66,31.3,39.41,Moderate,07/25,39.36234665,Single-country award,B
+ZMB,Zambia,Africa,2026-10-08,5,Official announcement,1520,975,671.2840468268397,29.04880592973499,69,26.5,48.97,High,01/26,47.90814972,Single-country award,B
+CMR,Cameroon,Africa,2025-12-16,5,Signed text,399.25,450,329.7684445504566,27.29187752414845,39,28.6,49.15,High,03/26,14.70563126,Single-country award,A
+NGA,Nigeria,Africa,2025-12-20,5,Signed text,2078.224,2975.634483,2183.4408563576303,27.25637815501804,60,38,57.23,,,11.27843571,Not named in any award,A
+MWI,Malawi,Africa,2026-01-14,5,Signed text,792,143.8,111.63619150812738,25.762254705640157,57,28.5,53.54,In debt distress,10/25,65.50470733999998,Single-country award,A
+UGA,Uganda,Africa,2025-12-10,5,Signed text,1719.96,577.001796,479.552559892896,24.064173325604536,61,36.5,56.83,Moderate,07/26,44.06991577,Named in multi-country or regional award only,A
+LSO,Lesotho,Africa,2025-12-10,5,Signed text,232,132.495,131.3630635060787,20.17233710355254,43,30.9,41.27,Moderate,09/25,40.46323013,Named in multi-country or regional award only,A
+SSD,South Sudan,Africa,2026-06-25,3,Official announcement,146,20,36.06337234511124,18.485976860038164,41,21.3,28.78,High,06/24,62.29821396,Single-country award,A
+LBR,Liberia,Africa,2025-12-09,5,Signed text,124.4184,50.725704,57.11076667211986,17.763972349109824,51,35.7,53.76,High,05/26,18.288394930000003,Not named in any award,A
+SLE,Sierra Leone,Africa,2025-12-22,5,Signed text,129,44.474405,50.58478725392772,17.584102816028636,58,32.7,46.56,High,06/26,28.504035949999995,Single-country award,A
+BWA,Botswana,Africa,2025-12-23,3,Signed text,99.64,381.497082,916.3423499115188,13.877531035456236,41,33.6,49.99,,,6.534340380000001,Named in multi-country or regional award only,A
+COD,Democratic Republic of the Congo,Africa,2026-02-26,5,Signed text,899.945,300,464.08913182914335,12.928550979747849,45,26.1,42.1,Moderate,09/25,36.99120331,Single-country award,A
+ETH,Ethiopia,Africa,2025-12-23,5,Signed text,1016,450,981.3256474513448,9.171267482282156,70,37.8,52.83,In debt distress,01/26,26.87509155,Single-country award,D
+BDI,Burundi,Africa,2026-02-06,5,Signed text,129.76,26,56.773915248182725,9.159135806062707,37,22.1,26.81,High,06/26,57.42037582,Single-country award,C
+NER,Niger,Africa,2026-02-26,5,Official announcement,107.4,71.9,163.35502618401205,8.802912488166468,54,28.7,38.13,High,03/26,14.582122800000002,Not named in any award,C
+CIV,Côte d'Ivoire,Africa,2025-12-30,5,Signed text,487.18,450,1115.6387315067084,8.067127597699294,51,31.2,42.13,Low,06/26,11.83283997,Not named in any award,C
+KEN,Kenya,Africa,2025-12-04,5,Signed text,1631.47,850,2111.4096805042764,8.051492875574873,62,38.8,51.76,High,10/24,20.13706398,Named in multi-country or regional award only,C
+GIN,Guinea,Africa,2026-02-27,5,Official announcement,91,51,186.62908057070527,5.465386192124375,66,26.8,40.02,Moderate,05/24,18.13282204,Not named in any award,D
+MDG,Madagascar,Africa,2025-12-22,5,Signed text,134.305,41.216252,156.7910687658446,5.257474462598799,38,30.4,37.01,Moderate,02/25,38.14876938,Named in multi-country or regional award only,C
+SWZ,Eswatini,Africa,2025-12-12,5,Signed text,192.7,36.789691,155.66124569492973,4.726891505429901,49,29.3,35.04,,,28.43986511,Not named in any award,C
+BFA,Burkina Faso,Africa,2026-02-25,5,Signed text,146.94,107.012805,519.384261081969,4.120756558047156,41,29.8,36.74,Moderate,02/26,20.923112869999994,Single-country award,C
+RWA,Rwanda,Africa,2025-12-05,5,Signed text,157.78,70.60346,345.5665211822128,4.086244220560458,53,33.1,52.17,Moderate,06/26,37,Single-country award,C
+TJK,Tajikistan,Asia,2026-04-06,5,Official announcement,38,40,226.5664622619761,3.530972730972731,62,29.3,,High,09/25,11.90781498,Single-country award,C
+MOZ,Mozambique,Africa,2025-12-15,5,Signed text,1829.38,70.573106,471.3007317987192,2.994822678532993,56,30.4,44.39,High,07/24,57.710708620000005,Named in multi-country or regional award only,C
+SEN,Senegal,Africa,2026-03-13,5,Official announcement,63.1,27.3,365.01031320462033,1.4958481452383487,54,32.8,60.29,Moderate,06/23,16.79883003,Single-country award,C
+AGO,Angola,Africa,2026-03-19,5,Official announcement,71,50,1244.7559254428063,0.8033703471981967,55,29.1,35.39,,,7.1689133599999995,Single-country award,C
+HND,Honduras,Latin America & Caribbean,2026-03-13,5,Official announcement,29.6,16.9,846.6917501943879,0.3992007716177703,28,26.2,,Moderate,12/24,10.07830715,Single-country award,C
+SLV,El Salvador,Latin America & Caribbean,2026-02-27,5,Official announcement,31.9,19.7,1912.73866062,0.2059873667593919,78,40.8,,,,0.88708884,Named in multi-country or regional award only,D
+KHM,Cambodia,Asia,2026-04-02,5,Official announcement,30.8,5.3,536.6602358226959,0.19751789479521029,68,31.1,,Low,10/25,11.26929188,Single-country award,D
+PAN,Panama,Latin America & Caribbean,2026-02-25,3,Signed text,22.5,11.027298,3557.5558999999994,0.1033227896714146,68,53.5,,,,0.7615695,Not named in any award,D
+PNG,Papua New Guinea,Asia,2026-04-22,5,Official announcement,15,3,648.0422300644269,0.09258655874021504,44,25,,High,06/26,18.194244380000004,Single-country award,C
+DOM,Dominican Republic,Latin America & Caribbean,2026-02-26,5,Signed text,46.7,14.1,3550.5335121365592,0.0794246833711209,66,34.5,,,,0.8568415599999998,Not named in any award,D
+BOL,Bolivia (Plurinational State of),Latin America & Caribbean,2026-04-17,3,Official announcement,10,2,2101.0669720955134,0.03172991035129938,30,29.9,,,,1.22657216,Named in multi-country or regional award only,C
+GTM,Guatemala,Latin America & Caribbean,2026-02-27,5,Official announcement,60,1.6,2544.5128059238737,0.01257608133293764,44,29.1,,,,2.97076392,Named in multi-country or regional award only,C

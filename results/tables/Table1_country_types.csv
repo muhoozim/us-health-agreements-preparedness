@@ -1,0 +1,5 @@
+quadrant,n,countries,pledge_min,pledge_max,spar_min,spar_max,n_rated,n_high_or_distress,n_no_single,n_cross10_dep20,us_usd_bn
+A,10,Cameroon; Nigeria; Malawi; Uganda; Lesotho; South Sudan; Liberia; Sierra Leone; Botswana; Democratic Republic of the Congo,12.928550979747849,27.29187752414845,39,61,8,5,5,0,6.6204374
+B,2,United Republic of Tanzania; Zambia,29.04880592973499,47.06003182042059,66,69,2,1,0,0,2.82
+C,16,Burundi; Niger; Côte d'Ivoire; Kenya; Madagascar; Eswatini; Burkina Faso; Rwanda; Tajikistan; Mozambique; Senegal; Angola; Honduras; Papua New Guinea; Bolivia (Plurinational State of); Guatemala,0.01257608133293764,9.159135806062707,28,62,12,6,8,3,5.103615
+D,6,Ethiopia; Guinea; El Salvador; Cambodia; Panama; Dominican Republic,0.0794246833711209,9.171267482282156,66,78,3,1,4,1,1.2389

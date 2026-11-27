@@ -1,0 +1,11 @@
+key,pair,population,n,rho,lo,hi
+pledge_spar,Pledge share vs SPAR 2025,34 signatories,34,0.035176281050666856,-0.35297968215422293,0.40257135702104097
+pledge_ghs,Pledge share vs GHS Index 2021,34 signatories,34,-0.04569420155208021,-0.39503867024106937,0.3249278761726215
+pledge_ahs,Pledge share vs AHS Index 2026,African signatories,25,0.24769230769230768,-0.18597485111906392,0.6322520924931436
+pledge_ext,Pledge share vs external share of current health spending,34 signatories,34,0.6158899923605806,0.3013480310990391,0.8147197994697366
+pledge_gge,Pledge share vs health share of government spending,34 signatories,34,-0.6085561497326203,-0.8226133081879805,-0.3044231473130196
+spar_ghs_all,SPAR 2025 vs GHS 2021,All countries with both,193,0.6985932454918727,0.6152274631321821,0.7687200428306192
+spar_ahs_all,SPAR 2025 vs AHS 2026,African countries with both,54,0.5698561206729611,0.35274891524970214,0.7279759785670252
+ghs_ahs_all,GHS 2021 vs AHS 2026,African countries with both,54,0.6899778916058943,0.4773132811086892,0.8294829210805089
+lab_lab,SPAR laboratory (C4) vs AHS laboratory,African countries with both,54,0.393437615129167,0.1407455956771549,0.6124880794251061
+surv_surv,SPAR surveillance (C5) vs AHS surveillance,African countries with both,54,0.08180028927296017,-0.201583699597727,0.356996038570442

@@ -1,0 +1,13 @@
+threshold,measure,eligible,n,n_in_primary,countries,iso3
+5,SPAR 2025 below WHO global mean (63),34,15,10,Burundi; Botswana; Côte d'Ivoire; Cameroon; Democratic Republic of the Congo; Kenya; Liberia; Lesotho; Madagascar; Malawi; Niger; Nigeria; Sierra Leone; South Sudan; Uganda,BDI BWA CIV CMR COD KEN LBR LSO MDG MWI NER NGA SLE SSD UGA
+5,"GHS 2021 below index median (34.9, 195 countries)",34,14,7,Burundi; Botswana; Côte d'Ivoire; Cameroon; Democratic Republic of the Congo; Guinea; Lesotho; Madagascar; Malawi; Niger; Sierra Leone; South Sudan; United Republic of Tanzania; Zambia,BDI BWA CIV CMR COD GIN LSO MDG MWI NER SLE SSD TZA ZMB
+5,AHS 2026 below index median (54 countries),25,6,1,Burundi; Guinea; Madagascar; Niger; South Sudan; United Republic of Tanzania,BDI GIN MDG NER SSD TZA
+10,SPAR 2025 below WHO global mean (63),34,10,10,Botswana; Cameroon; Democratic Republic of the Congo; Liberia; Lesotho; Malawi; Nigeria; Sierra Leone; South Sudan; Uganda,BWA CMR COD LBR LSO MWI NGA SLE SSD UGA
+10,"GHS 2021 below index median (34.9, 195 countries)",34,9,7,Botswana; Cameroon; Democratic Republic of the Congo; Lesotho; Malawi; Sierra Leone; South Sudan; United Republic of Tanzania; Zambia,BWA CMR COD LSO MWI SLE SSD TZA ZMB
+10,AHS 2026 below index median (54 countries),25,2,1,South Sudan; United Republic of Tanzania,SSD TZA
+15,SPAR 2025 below WHO global mean (63),34,8,8,Cameroon; Liberia; Lesotho; Malawi; Nigeria; Sierra Leone; South Sudan; Uganda,CMR LBR LSO MWI NGA SLE SSD UGA
+15,"GHS 2021 below index median (34.9, 195 countries)",34,7,5,Cameroon; Lesotho; Malawi; Sierra Leone; South Sudan; United Republic of Tanzania; Zambia,CMR LSO MWI SLE SSD TZA ZMB
+15,AHS 2026 below index median (54 countries),25,2,1,South Sudan; United Republic of Tanzania,SSD TZA
+20,SPAR 2025 below WHO global mean (63),34,5,5,Cameroon; Lesotho; Malawi; Nigeria; Uganda,CMR LSO MWI NGA UGA
+20,"GHS 2021 below index median (34.9, 195 countries)",34,5,3,Cameroon; Lesotho; Malawi; United Republic of Tanzania; Zambia,CMR LSO MWI TZA ZMB
+20,AHS 2026 below index median (54 countries),25,1,0,United Republic of Tanzania,TZA

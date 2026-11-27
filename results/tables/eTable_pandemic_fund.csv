@@ -1,0 +1,35 @@
+iso3,country,screen_group,pf_status,pf_single_n,pf_single_rounds,pf_single_grant_usd,pf_named_multi_regional_n,pf_projects,pf_cfp4_eligible,pf_efp_2026
+BWA,Botswana,TRUE,Named in multi-country or regional award only,0,,0,1,PF-R2-19,FALSE,
+CMR,Cameroon,TRUE,Single-country award,1,3,23500000,0,PF-R3-09,FALSE,
+COD,Democratic Republic of the Congo,TRUE,Single-country award,1,2,24999919,1,PF-R2M-02;PF-R2M-04,FALSE,EFP_Ebola_2026_reprogramming
+LSO,Lesotho,TRUE,Named in multi-country or regional award only,0,,0,1,PF-R2-19,FALSE,
+LBR,Liberia,TRUE,Not named in any award,0,,0,0,,TRUE,
+MWI,Malawi,TRUE,Single-country award,1,3,25000000,1,PF-R2-19;PF-R3-13,FALSE,
+NGA,Nigeria,TRUE,Not named in any award,0,,0,0,,TRUE,
+SLE,Sierra Leone,TRUE,Single-country award,1,2,20064381,0,PF-R2-16,FALSE,
+SSD,South Sudan,TRUE,Single-country award,1,3,21610000,1,PF-R2M-05;PF-R3-02,FALSE,EFP_Ebola_2026_reprogramming
+UGA,Uganda,TRUE,Named in multi-country or regional award only,0,,0,2,PF-R2M-04;PF-R2M-05,TRUE,EFP_Ebola_2026_expedited
+AGO,Angola,FALSE,Single-country award,1,3,19930000,0,PF-R3-14,FALSE,EFP_Ebola_2026_reprogramming
+BOL,Bolivia (Plurinational State of),FALSE,Named in multi-country or regional award only,0,,0,1,PF-R1-18,FALSE,
+BFA,Burkina Faso,FALSE,Single-country award,1,1,19349000,0,PF-R1-02,FALSE,
+BDI,Burundi,FALSE,Single-country award,1,2,22439316,0,PF-R2M-03,FALSE,EFP_Ebola_2026_reprogramming
+KHM,Cambodia,FALSE,Single-country award,1,1,19470124,0,PF-R1-04,FALSE,
+CIV,Côte d'Ivoire,FALSE,Not named in any award,0,,0,0,,FALSE,
+DOM,Dominican Republic,FALSE,Not named in any award,0,,0,0,,FALSE,
+SLV,El Salvador,FALSE,Named in multi-country or regional award only,0,,0,1,PF-R3-16,FALSE,
+SWZ,Eswatini,FALSE,Not named in any award,0,,0,0,,FALSE,
+ETH,Ethiopia,FALSE,Single-country award,1,1,50000000,1,PF-R1-05;PF-R2M-05,FALSE,EFP_Ebola_2026_reprogramming
+GTM,Guatemala,FALSE,Named in multi-country or regional award only,0,,0,1,PF-R3-16,FALSE,
+GIN,Guinea,FALSE,Not named in any award,0,,0,0,,TRUE,
+HND,Honduras,FALSE,Single-country award,1,2,17073501,1,PF-R2-17;PF-R3-16,FALSE,
+KEN,Kenya,FALSE,Named in multi-country or regional award only,0,,0,1,PF-R2M-05,FALSE,EFP_Ebola_2026_reprogramming
+MDG,Madagascar,FALSE,Named in multi-country or regional award only,0,,0,1,PF-R2-19,TRUE,
+MOZ,Mozambique,FALSE,Named in multi-country or regional award only,0,,0,1,PF-R2-19,TRUE,
+NER,Niger,FALSE,Not named in any award,0,,0,0,,TRUE,
+PAN,Panama,FALSE,Not named in any award,0,,0,0,,FALSE,
+PNG,Papua New Guinea,FALSE,Single-country award,1,3,14440000,1,PF-R3-12;PF-R3-17,FALSE,
+RWA,Rwanda,FALSE,Single-country award,1,2,24963101,1,PF-R2M-01;PF-R2M-04,FALSE,EFP_Ebola_2026_reprogramming
+SEN,Senegal,FALSE,Single-country award,1,3,24620000,0,PF-R3-01,FALSE,
+TJK,Tajikistan,FALSE,Single-country award,1,3,11990000,1,PF-R1-19;PF-R3-05,FALSE,
+TZA,United Republic of Tanzania,FALSE,Single-country award,1,2,24998558,0,PF-R2-04,FALSE,EFP_Ebola_2026_reprogramming
+ZMB,Zambia,FALSE,Single-country award,1,1,18874603,0,PF-R1-16,FALSE,EFP_Ebola_2026_reprogramming
